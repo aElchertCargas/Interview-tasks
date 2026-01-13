@@ -131,49 +131,6 @@ Before submitting, please verify:
 
 ---
 
-## Evaluation Criteria
-
-Your assessment will be evaluated on:
-
-### SQL Technical Skills (50 points)
-- Query correctness and accuracy
-- Proper use of SQL syntax and functions
-- Understanding of data relationships
-- Code clarity and commenting
-
-### Support Communication (30 points)
-- Professional and empathetic tone
-- Clear, organized responses
-- Diagnostic thinking and problem-solving
-- Appropriate expectation management
-
-### Attention to Detail (20 points)
-- Following instructions
-- Complete responses to all questions
-- Proper formatting and presentation
-- Testing your work before submission
-
----
-
-## Tips for Success
-
-### For SQL Questions:
-1. Read each question carefully to understand what's being asked
-2. Test your queries multiple times with different scenarios
-3. Use comments to explain your logic, especially for complex queries
-4. If you're stuck, move on and come back later
-5. The database has some intentional quirks (NULLs, edge cases) - watch for them!
-
-### For Support Scenarios:
-1. Put yourself in the customer's shoes
-2. Start with empathy before diving into technical details
-3. Ask clarifying questions when information is unclear
-4. Be honest about what you know and don't know
-5. Provide clear next steps, even if it's "I need to investigate this"
-6. Proofread for grammar and professionalism
-
----
-
 ## Questions or Technical Issues?
 
 If you encounter technical difficulties setting up the database or have questions about the assessment instructions, please contact:
