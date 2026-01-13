@@ -9,7 +9,7 @@ This assessment is designed to evaluate your SQL fundamentals and support commun
 1. **SQL Questions** - Testing your ability to query and analyze data
 2. **Support Ticket Scenarios** - Testing your customer communication and problem-solving skills
 
-**Estimated Time:** 2-3 hours total
+**Estimated Time:** Less than 1 hour total
 
 **Important:** This is a take-home assessment. Please complete it independently and submit your work by the deadline provided in your email.
 
