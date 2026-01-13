@@ -52,7 +52,6 @@ This assessment is designed to evaluate your SQL fundamentals and support commun
 
 **Important Notes:**
 - **Core Questions (1-7)** are required
-- **Extra Credit Questions** are optional but encouraged
 - Test your queries to make sure they work and return the expected results
 - Focus on correctness first, then consider efficiency
 
