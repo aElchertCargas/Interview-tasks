@@ -50,11 +50,6 @@ This assessment is designed to evaluate your SQL fundamentals and support commun
    - Example: `JohnDoe_sql_solutions.sql`
 5. Include comments in your file indicating which question each query answers
 
-**Important Notes:**
-- **Core Questions (1-7)** are required
-- Test your queries to make sure they work and return the expected results
-- Focus on correctness first, then consider efficiency
-
 ---
 
 ## Part 2: Support Ticket Scenarios
