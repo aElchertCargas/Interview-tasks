@@ -49,21 +49,13 @@ For each scenario below, write a professional support ticket response as if you 
 
 
 
-**Now, write your customer response using this answer, and make sure to:**
-- Acknowledge the urgency and empathy for the customer's situation.
-- Ask clarifying questions as needed to help diagnose (such as, "Are there any new records? Has the data format changed?").
-- Offer the technical workaround above, mentioning you can help apply it.
-- Explain next steps or set expectations for how you will follow up.
-- Do not just copy-paste the above code or explanation; write it in your own words as if emailing the customer.
-
-
 ### Your Task:
 
-Write a support ticket response to Sarah. Consider:
-- How would you acknowledge her urgency while being realistic?
-- What information do you need to diagnose this issue?
-- What initial troubleshooting steps or explanations can you provide?
-- How would you set expectations for resolution?
+Write a support ticket response to Sarah as if you were responding to this customer in a real support scenario. 
+
+**The technical answer to the problem is provided above for your reference.** Use this information to craft a professional, helpful response that addresses the customer's needs.
+
+Consider what information would be helpful to include in your response, how you would communicate with the customer, and what next steps would be appropriate. Write your response in your own words as if you were emailing the customer directly.
 
 **Write your response below this line:**
 
@@ -106,11 +98,9 @@ else:
 
 ### Your Task:
 
-Write a support ticket response to James. Consider:
-- How would you clarify what he's actually trying to accomplish?
-- What questions do you need to ask to understand his requirements better?
-- How would you explain the options available (even if you don't know the exact technical details)?
-- How would you guide him toward next steps without overpromising?
+Write a support ticket response to James as if you were responding to this customer in a real support scenario.
+
+Consider what information would be helpful to include in your response, how you would communicate with the customer, and what next steps would be appropriate. Write your response in your own words as if you were emailing the customer directly.
 
 **Write your response below this line:**
 
