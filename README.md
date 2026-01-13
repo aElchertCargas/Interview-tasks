@@ -23,15 +23,6 @@ This assessment is designed to evaluate your SQL fundamentals and support commun
   - Download: https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms
 - **Text editor** for writing your support ticket responses (Word, Google Docs, Notepad, etc.)
 
-### Alternative: If You Don't Have SQL Server
-
-If you prefer to use a different SQL database system (PostgreSQL, MySQL, SQLite), you may adapt the setup script. However:
-- You'll need to adjust the SQL syntax (mainly `IDENTITY` to `AUTO_INCREMENT` or `SERIAL`)
-- Please note which system you used in your submission
-- We primarily use SQL Server, so familiarity with it is preferred
-
----
-
 ## Part 1: SQL Assessment
 
 ### Step 1: Set Up the Test Database
