@@ -13,8 +13,6 @@ This assessment is designed to evaluate your SQL fundamentals and support commun
 
 **Important:** This is a take-home assessment. Please complete it independently and submit your work by the deadline provided in your email.
 
----
-
 ## Getting Started
 
 ### What You'll Need
@@ -138,7 +136,5 @@ If you encounter technical difficulties setting up the database or have question
 **Adam Elchert (aelchert@cargas.com)**
 
 **Important:** Questions about how to solve specific SQL problems or support scenarios are part of the assessment. We can help with technical setup issues, but not with the answers themselves.
-
----
 
 ## Good Luck!
