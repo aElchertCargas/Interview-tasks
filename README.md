@@ -142,9 +142,3 @@ If you encounter technical difficulties setting up the database or have question
 ---
 
 ## Good Luck!
-
-We're excited to see your work. This assessment is designed to reflect the type of work you'd do in this role - analyzing data to solve customer problems and communicating effectively with customers.
-
-Take your time, do your best, and don't hesitate to reach out if you have technical setup questions.
-
-**- The Cargas Technical Support Team**
