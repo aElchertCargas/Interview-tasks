@@ -135,43 +135,9 @@ Before submitting, please verify:
 
 If you encounter technical difficulties setting up the database or have questions about the assessment instructions, please contact:
 
-**[INSERT CONTACT NAME AND EMAIL HERE]**
+**Adam Elchert (aelchert@cargas.com)**
 
 **Important:** Questions about how to solve specific SQL problems or support scenarios are part of the assessment. We can help with technical setup issues, but not with the answers themselves.
-
----
-
-## Database Schema Reference
-
-For your convenience, here's a quick reference of the database structure:
-
-### Customers Table
-- `id` (INT, Primary Key)
-- `name` (NVARCHAR)
-- `email` (NVARCHAR) - *may contain NULLs*
-- `signup_date` (DATE)
-- `status` (NVARCHAR) - values: 'active', 'inactive'
-
-### Products Table
-- `id` (INT, Primary Key)
-- `name` (NVARCHAR)
-- `category` (NVARCHAR)
-- `price` (DECIMAL)
-- `stock_quantity` (INT)
-
-### Orders Table
-- `id` (INT, Primary Key)
-- `customer_id` (INT, Foreign Key → Customers)
-- `order_date` (DATE)
-- `total_amount` (DECIMAL)
-- `status` (NVARCHAR) - values: 'completed', 'pending', 'processing', 'cancelled'
-
-### OrderItems Table
-- `order_id` (INT, Foreign Key → Orders)
-- `product_id` (INT, Foreign Key → Products)
-- `quantity` (INT)
-- `unit_price` (DECIMAL)
-- Primary Key: (order_id, product_id)
 
 ---
 
