@@ -1,0 +1,17 @@
+# Files to keep private - not for candidates to see
+
+# Hiring manager guides
+QUICK_START.md
+README.md
+IMPLEMENTATION_SUMMARY.md
+
+# Evaluation materials (answer key and rubric)
+evaluation/
+
+# Original planning documents
+jobDescription.md
+teamOverview.md
+
+# Candidate submission files (if they accidentally get committed)
+*_sql_solutions.sql
+*_support_responses.*
