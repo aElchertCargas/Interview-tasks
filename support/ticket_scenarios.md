@@ -139,6 +139,68 @@ Write your response in your own words as if you were emailing the customer direc
 
 ---
 
+## Scenario 5: Multi-Step Issue / Integration Problem
+
+### Customer's Ticket:
+
+**Subject:** Data not syncing correctly
+
+**From:** Jennifer Park, Customer Success Manager at TechSolutions LLC
+
+**Message:**
+> Hi Support Team,
+>
+> We're having an issue where customer data from our CRM isn't showing up in your system. We imported 200 new customers last week, but only 150 are appearing. The other 50 seem to have just disappeared.
+>
+> Our IT team checked the import logs and everything looks successful on our end. They say the data was sent correctly. But it's not showing up in your system.
+>
+> We need all our customer data to be accurate. Can you help us figure out what happened to those 50 customers?
+>
+> Best regards,
+> Jennifer Park
+
+### Your Task:
+
+Write a support ticket response to Jennifer. Consider:
+- How would you approach investigating a multi-system integration issue?
+- What specific technical information do you need from the customer or their IT team?
+- How would you explain potential causes (data validation, field mapping, error handling)?
+- What questions would help you determine if this is a data format issue, validation failure, or system error?
+- How would you coordinate with the customer's IT team while maintaining ownership of the issue?
+
+Write your response in your own words as if you were emailing the customer directly.
+
+---
+
+## Scenario 6: Ambiguous Problem / Needs Investigation
+
+### Customer's Ticket:
+
+**Subject:** Something's wrong but I don't know what
+
+**From:** Robert Chen, Operations Manager
+
+**Message:**
+> Hi,
+>
+> Our reports just don't look right lately. The numbers seem off, but I can't put my finger on exactly what's wrong. Can someone take a look?
+>
+> Thanks,
+> Robert Chen
+
+### Your Task:
+
+Write a support ticket response to Robert. Consider:
+- How would you handle a vague or incomplete problem description?
+- What targeted questions would help you narrow down what "doesn't look right" means?
+- How would you maintain professionalism and helpfulness when the issue is unclear?
+- What approach would you take to systematically investigate without dismissing the concern?
+- How would you gather enough information to diagnose the issue?
+
+Write your response in your own words as if you were emailing the customer directly.
+
+---
+
 **Remember:** Save all your responses in `ticket_scenarios_answers.md` with clear labels for each scenario.
 
 Good luck!

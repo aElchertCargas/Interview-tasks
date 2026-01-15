@@ -57,14 +57,13 @@ This assessment is designed to evaluate your SQL fundamentals and support commun
 ### Step 1: Read the Scenarios
 
 1. Open the file `support/ticket_scenarios.md`
-2. Read both customer scenarios carefully
-3. Review the evaluation criteria and tips provided
+2. Read all customer scenarios carefully
 
 ### Step 2: Write Your Responses
 
 1. Create a file named `ticket_scenarios_answers.md` in the root of your repository
 2. Write a professional support ticket response for each scenario
-3. Label your responses clearly (Scenario 1, Scenario 2)
+3. Label your responses clearly (Scenario 1, Scenario 2, Scenario 3, Scenario 5, Scenario 6)
 
 **What We're Looking For:**
 - Professional, empathetic communication
