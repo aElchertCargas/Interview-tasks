@@ -155,6 +155,12 @@ Write your response in your own words as if you were emailing the customer direc
 > Best regards,
 > Jennifer Park
 
+### Provided Information:
+
+After initial investigation, you've discovered the following:
+- The import process validates customer email addresses and rejects records with invalid or duplicate emails
+- Import logs show that 50 records were rejected during validation, but the rejection messages weren't sent back to the CRM system
+
 ### Your Task:
 
 Write a support ticket response to Jennifer.
@@ -178,6 +184,12 @@ Write your response in your own words as if you were emailing the customer direc
 >
 > Thanks,
 > Robert Chen
+
+### Provided Information:
+
+After initial investigation, you've discovered the following:
+- The customer's reports use date filters that default to the current month
+- Recent system updates changed how null values are handled in calculations, which may affect report totals
 
 ### Your Task:
 
