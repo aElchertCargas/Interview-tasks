@@ -87,6 +87,13 @@ Please add the following files to your repository:
 
 ### How to Submit
 
+**Option 1: Fork and Submit (Recommended)**
+1. Fork this repository to your own GitHub account
+2. Add your solution files to the forked repository
+3. Commit and push your changes
+4. Return the link to your repository to HR
+
+**Option 2: Clone and Submit**
 1. Clone this repository to your local machine
 2. Add your solution files to the cloned repository
 3. Create a new repository on GitHub (or your preferred git hosting service)
