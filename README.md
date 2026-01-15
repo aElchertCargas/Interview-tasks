@@ -91,15 +91,6 @@ Please add the following files to your repository:
 4. Push your changes to your new repository
 5. Return the link to your repository to HR
 
-### Submission Checklist
-
-Before submitting, please verify:
-- [ ] All required SQL questions (1-9) are answered
-- [ ] SQL queries are tested and working
-- [ ] All support scenarios have responses in `ticket_scenarios_answers.md`
-- [ ] Files are named correctly
-- [ ] Your repository is accessible and contains all solution files
-
 ---
 
 ## Questions or Technical Issues?
