@@ -55,7 +55,7 @@ Write a support ticket response to Sarah as if you were responding to this custo
 
 **The technical answer to the problem is provided below for your reference.** Use this information to craft a professional, helpful response that addresses the customer's needs.
 
-Consider what information would be helpful to include in your response, how you would communicate with the customer, and what next steps would be appropriate. Write your response in your own words as if you were emailing the customer directly.
+Write your response in your own words as if you were emailing the customer directly.
 
 **The answer to the technical problem is:**
 
@@ -94,7 +94,7 @@ else:
 
 Write a support ticket response to James as if you were responding to this customer in a real support scenario.
 
-Consider what information would be helpful to include in your response, how you would communicate with the customer, and what next steps would be appropriate. Write your response in your own words as if you were emailing the customer directly.
+Write your response in your own words as if you were emailing the customer directly.
 
 ---
 
@@ -129,11 +129,7 @@ After initial investigation, you've discovered the following:
 
 ### Your Task:
 
-Write a support ticket response to Maria. Use the provided information to ask specific, technical questions that will help diagnose the discrepancy. Consider:
-- What technical details do you need to understand the root cause?
-- How would you explain the potential issues you've identified?
-- What questions would help you determine if this is a data issue, query logic issue, or reporting configuration issue?
-- How would you manage the urgency while ensuring accuracy?
+Write a support ticket response to Maria. Use the provided information to ask specific, technical questions that will help diagnose the discrepancy.
 
 Write your response in your own words as if you were emailing the customer directly.
 
@@ -161,12 +157,7 @@ Write your response in your own words as if you were emailing the customer direc
 
 ### Your Task:
 
-Write a support ticket response to Jennifer. Consider:
-- How would you approach investigating a multi-system integration issue?
-- What specific technical information do you need from the customer or their IT team?
-- How would you explain potential causes (data validation, field mapping, error handling)?
-- What questions would help you determine if this is a data format issue, validation failure, or system error?
-- How would you coordinate with the customer's IT team while maintaining ownership of the issue?
+Write a support ticket response to Jennifer.
 
 Write your response in your own words as if you were emailing the customer directly.
 
@@ -190,12 +181,7 @@ Write your response in your own words as if you were emailing the customer direc
 
 ### Your Task:
 
-Write a support ticket response to Robert. Consider:
-- How would you handle a vague or incomplete problem description?
-- What targeted questions would help you narrow down what "doesn't look right" means?
-- How would you maintain professionalism and helpfulness when the issue is unclear?
-- What approach would you take to systematically investigate without dismissing the concern?
-- How would you gather enough information to diagnose the issue?
+Write a support ticket response to Robert.
 
 Write your response in your own words as if you were emailing the customer directly.
 
